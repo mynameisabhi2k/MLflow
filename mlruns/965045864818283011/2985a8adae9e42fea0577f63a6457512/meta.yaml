@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/965045864818283011/2985a8adae9e42fea0577f63a6457512/artifacts
+end_time: 1744290770705
+entry_point_name: ''
+experiment_id: '965045864818283011'
+lifecycle_stage: active
+run_id: 2985a8adae9e42fea0577f63a6457512
+run_name: charming-newt-943
+run_uuid: 2985a8adae9e42fea0577f63a6457512
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744290770179
+status: 3
+tags: []
+user_id: Abhilash

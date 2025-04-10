@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/8eb4206c9d0b4e58b1687784222170a0/artifacts
+end_time: 1744288123301
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8eb4206c9d0b4e58b1687784222170a0
+run_name: mercurial-smelt-570
+run_uuid: 8eb4206c9d0b4e58b1687784222170a0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744288122755
+status: 3
+tags: []
+user_id: Abhilash
